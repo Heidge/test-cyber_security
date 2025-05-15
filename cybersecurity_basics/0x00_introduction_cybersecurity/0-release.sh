@@ -1,2 +1,2 @@
 #!/bin/bash
-cat /etc/lsb_release | grep "^ID=" | cut -d "=" -f2
+lsb_release -a | grep "Distributor ID :" | cut -d ":" -f2
