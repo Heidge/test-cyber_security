@@ -1,6 +1,6 @@
 # 0x00_introduction_cybersecurity
 
-## Exigences
+## Conditions de réalisation du projet
 
 - Tous vos fichiers seront exécutés sur Kali Linux 2023.2
 - Éditeurs autorisés : vi, vim, emacs
