@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo ss -pta
+sudo ss -taZ
